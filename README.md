@@ -45,9 +45,8 @@
 <h2 align="left">🌐 Connect with me</h2>
 
 <p align="left">
-  <a href="https://theengineerschoice.in" target="_blank">🌍 theengineerschoice.in</a><br>
-  <a href="https://www.linkedin.com" target="_blank">💼 LinkedIn</a><br>
-  <a href="mailto:divyanshsingh8899@gmail.com">📧 Email</a>
+  <a href="www.linkedin.com/in/divyansh-singh-bb483b265" target="_blank">💼 LinkedIn</a><br>
+  <a href="mailto:divyanshsinghrajput4050@gmail.com">📧 Email</a>
 </p>
 
 ###
